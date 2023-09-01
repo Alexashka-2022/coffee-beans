@@ -15,3 +15,4 @@ https://www.figma.com/community/file/1142093618517763065
 5. работа с GitHub и Github Pages
 
 ## Адрес проекта на GitHub Pages
+https://alexashka-2022.github.io/coffee-beans/index.html
