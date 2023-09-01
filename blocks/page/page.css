@@ -1,0 +1,17 @@
+.page {
+  font-family: "Poppins", "Arial", sans-serif;
+  background-image: url("../../../images/main-wallpapper.jpg");
+  background-repeat: no-repeat;
+  background-size: contain;
+  max-width: 1675px;
+  margin: 0 auto;
+  width: 100vw;
+  height: 100vh;
+  color: rgb(255, 255, 255);
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  -webkit-text-size-adjust: 100%;
+  -moz-text-size-adjust: 100%;
+  -ms-text-size-adjust: 100%;
+  text-rendering: optimizeLegibility;
+}

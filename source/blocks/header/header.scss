@@ -1,0 +1,10 @@
+.header {
+    $padding: 156px;
+    max-width: calc(100% - #{$padding});
+    margin: 0 auto;
+    padding-top: 88px;
+    display: flex;
+    flex-direction: row;
+    align-items: baseline;
+    justify-content: space-between;
+}
