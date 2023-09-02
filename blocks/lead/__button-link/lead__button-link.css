@@ -1,4 +1,12 @@
 .lead__button-link {
   text-decoration: none;
-  color: #FFF;
+  display: block;
+  border-radius: 97px;
+  background: #C97F54;
+  justify-self: center;
+}
+
+.lead__button-link:hover {
+  opacity: 0.8;
+  cursor: pointer;
 }
